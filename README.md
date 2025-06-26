@@ -241,3 +241,5 @@ RECAP of what we have learnt -
 - The DOM (how to use JS to change the website).
 - getElementById("id-name").
 - innerText v/s textContent.
+
+Visit the App [here](https://mypeople-counter-app.netlify.app/).
